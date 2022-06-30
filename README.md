@@ -53,6 +53,7 @@ Skills I have base knowledge in, but would like to improve on
 * Pentesting (scanning, research, vuln exploitation)
 * DB administration
 * Networking
+* Computer graphics
 
 <!--
 ### Projects / repos
@@ -91,7 +92,7 @@ If you find a repo of mine that is not listed here, it is probably just not a co
 * Game development - I have made a few small games on Unity, but someday I hope to release a full-fledged game that I can be proud of.
 * AR - I genuinely think augmented reality is the future. I think once it's accessible enough, this tech will be as ubiquitous as smart phones are today. I hope to become a part of the driving force that takes it there.
 * Contribute to open source projects
-
+* 3D modeling
 
 <!--
 - 🔭 I’m currently working on ...
