@@ -45,6 +45,7 @@ The following list is in no particular order, but I feel most confident with Pyt
 * Linux use and management
 * Game development (mostly Unity)
 * Writing, communication
+* Embedded software
 * No-SQL (MongoDB, Neo4j)
 
 Skills I have base knowledge in, but would like to improve on
@@ -56,6 +57,7 @@ Skills I have base knowledge in, but would like to improve on
 <!--
 ### Projects / repos
 * [Primeheim](https://primeheim.ch) - I built this site in ReactJS based on a design provided by a client and implemented everything from the front and back end. This site is in active development.
+* ChopWare (now with secrets!)
 * 
 
 If you find a repo of mine that is not listed here, it is probably just not a completed project or not something I am proud of
