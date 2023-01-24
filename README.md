@@ -2,8 +2,6 @@
 
 I am Roberto, a freelance software engineer from Mexico with a passion for learning. Welcome to my profile!
 
-*I am currently looking for new career opportunities, so if you think I might be a good fit for your team please feel free to contact me at [rsotolei@gmail.com](mailto:rsotolei@gmail.com). I am willing to re-locate and have experience working in diverse teams, both large and small.*
-
 <!--
 You may also find my CV in [English]() and [Spanish]().
 -->
