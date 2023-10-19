@@ -1,6 +1,8 @@
 ### Hello!
 
-I am Roberto, a freelance software engineer from Mexico with a passion for learning. Welcome to my profile!
+I am Roberto, a software engineer from Mexico with a passion for learning. Welcome!
+
+This profile is currently inactive as I spend most of my time writing code for my job
 
 <!--
 You may also find my CV in [English]() and [Spanish]().
@@ -59,7 +61,7 @@ Skills I have base knowledge in, but would like to improve on
 * ChopWare (now with secrets!)
 * 
 
-If you find a repo of mine that is not listed here, it is probably just not a completed project or not something I am proud of
+If you find a repo of mine that is not listed here, it is probably just not a completed project
 -->
 
 ### I also like learning (human) languages!
@@ -74,11 +76,11 @@ If you find a repo of mine that is not listed here, it is probably just not a co
 
 * Programming challenges <!-- (here is my (Hackerrank profile)[]!) -->
 * Wargames/CTF
-  * I love OverTheWire's challanges. I'm on level 14 of Banit and level 11 of Natas
-  * I recently got into HackTheBox Academy
-  * I want to get into competitive CTFs! Unfortunately, I have not had a lot of free time in the past few months
+  * OverTheWire
+  * HackTheBox Academy
+  * CTFs
 * Reading - An old love of mine. I prefer novels, but I also find history fascinating
-* Sports - Karate and running
+* Sports - Karate, bouldering, and running
 
 ### Things I want to learn more about / work on more actively
 
